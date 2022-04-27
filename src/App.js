@@ -6,8 +6,8 @@ function App() {
   return (
     <>
       <Header title="The Job Board" />
-      <div class="container">
-        <div class="wrapper">
+      <div className="container">
+        <div className="wrapper">
           <div>
             <Content
               jobtitle="Full time sales associate"

@@ -1,6 +1,6 @@
 const Header = (props) => {
   return (
-    <div class="navbar">
+    <div className="navbar">
       <h1>{props.title}</h1>
     </div>
   );
